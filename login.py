@@ -4,3 +4,6 @@ def info()"
 def index():
 	ptint("info")
 
+
+a = 1
+
