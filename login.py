@@ -4,3 +4,4 @@ def info()"
 def index():
 	ptint("info")
 
+b = 2
