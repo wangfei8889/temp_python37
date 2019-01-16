@@ -1,6 +1,3 @@
-
-def index():
-	print("info")
-
-a = 1
+def info()"
+	print('info')
 
